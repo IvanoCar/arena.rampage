@@ -6,12 +6,12 @@
 
 Goal of the game is to stay alive as long as possible. Left click to fire bullets, right click to fire rockets. Download *Game.zip* to play.
 
-![start]("https://raw.githubusercontent.com/IvanoCar/arena.rampage/master/Game photos/start.png")
+![start](https://github.com/IvanoCar/arena.rampage/blob/master/Game%20photos/start.png?raw=true)
 
-![one]("https://raw.githubusercontent.com/IvanoCar/arena.rampage/master/Game photos/one.png")
+![one](https://github.com/IvanoCar/arena.rampage/blob/master/Game%20photos/one.png?raw=true)
 
-![three]("https://raw.githubusercontent.com/IvanoCar/arena.rampage/master/Game photos/three.png")
+![three](https://github.com/IvanoCar/arena.rampage/blob/master/Game%20photos/three.png?raw=true)
 
-![two]("https://raw.githubusercontent.com/IvanoCar/arena.rampage/master/Game photos/two.png")
+![two](https://github.com/IvanoCar/arena.rampage/blob/master/Game%20photos/two.png?raw=true)
 
-![four]("https://raw.githubusercontent.com/IvanoCar/arena.rampage/master/Game photos/four.png")
+![four](https://github.com/IvanoCar/arena.rampage/blob/master/Game%20photos/four.png?raw=true)
